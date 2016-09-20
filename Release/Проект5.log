@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\виктор\documents\visual studio 2015\projects\проект5\проект5\Desk.h(16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\проект5\проект5\Player.h(8): warning C4305: инициализация: усечение из "int" к "float"
+c:\users\виктор\documents\visual studio 2015\projects\проект5\проект5\Player.h(67): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\проект5\проект5\Player.h(97): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\проект5\проект5\Player.h(98): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\проект5\проект5\Player.h(113): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\проект5\проект5\Player.h(125): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виктор\documents\visual studio 2015\projects\проект5\проект5\Menu.h(19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\проект5\проект5\Menu.h(20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+Source.cpp(29): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+Source.cpp(44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  Создание кода завершено
+  1 of 584 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Проект5.vcxproj -> C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Проект5\Release\Проект5.exe
+  Проект5.vcxproj -> C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Проект5\Release\Проект5.pdb (Full PDB)
